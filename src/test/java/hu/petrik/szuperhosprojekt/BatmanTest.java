@@ -1,6 +1,7 @@
 package hu.petrik.szuperhosprojekt;
 
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 class BatmanTest {
     private class SzuperhosMock implements Szuperhos
